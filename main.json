@@ -1,12 +1,12 @@
 {
-	bkash: "017",
-	nagad: "017",
-	rocket: "017",
-	minVersionCode: 61,
-	notice: {
-		showApp: false,
-		showWeb: false,
-		message: "এপ এর কাজ চলতেছে, ১০ মিনিট পরে আবার চেষ্টা করুন",
-		dismissale: true,
-	}
+  "bkash": "017",
+  "nagad": "017",
+  "rocket": "017",
+  "minVersionCode": 61,
+  "notice": {
+    "showApp": false,
+    "showWeb": false,
+    "message": "এপ এর কাজ চলতেছে, ১০ মিনিট পরে আবার চেষ্টা করুন",
+    "dismissale": true
+  }
 }
