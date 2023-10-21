@@ -4,7 +4,7 @@
   "rocket": "017",
   "minVersionCode": 61,
   "notice": {
-    "showApp": false,
+    "showApp": true,
     "showWeb": false,
     "message": "এপ এর কাজ চলতেছে, ১০ মিনিট পরে আবার চেষ্টা করুন",
     "dismissible": true
